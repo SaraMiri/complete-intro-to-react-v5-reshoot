@@ -1,0 +1,27 @@
+{
+  "name": "complete-intro-to-react-v5-reshoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraMiri/complete-intro-to-react-v5-reshoot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraMiri/complete-intro-to-react-v5-reshoot/issues"
+  },
+  "homepage": "https://github.com/SaraMiri/complete-intro-to-react-v5-reshoot#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "prettier": "^1.19.1"
+  }
+}
