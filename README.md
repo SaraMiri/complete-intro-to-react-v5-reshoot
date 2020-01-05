@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can find more information on the course [Complete intro to React v5](https://github.com/btholt/complete-intro-to-react-v5).
 
 ## Available Scripts
 
