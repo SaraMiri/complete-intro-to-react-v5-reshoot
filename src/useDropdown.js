@@ -2,7 +2,8 @@ import React, { useState } from "react";
 
 const useDropdown = (label, defaultState, options) => {
   const [state, setState] = useState(defaultState);
-  const id = `use-dropdown-${label.replace(" ", "".toLowerCase())}`;
+  //I don't know if I can use both "d" or "D" on use-Dropdown (id)
+  const id = `use-Dropdown-${label.replace(" ", "".toLowerCase())}`;
   const Dropdown = () => (
     <label htmlFor={id}>
       {label}
