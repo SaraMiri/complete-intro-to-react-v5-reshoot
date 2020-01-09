@@ -3,6 +3,7 @@ import pet, { ANIMALS } from "@frontendmasters/pet";
 import Results from "./Results";
 import useDropdown from "./useDropdown";
 
+//This is needed for the app to work properly (@babel/polyfill)
 import "regenerator-runtime/runtime";
 
 const SearchParams = () => {
